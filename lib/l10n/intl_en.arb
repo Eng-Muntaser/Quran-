@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "recitersList": "Reciters List",
+  "recitersListBottom": "Reciters List:",
+  "search": "Search",
+  "rewayatDefault": "Rewayat Hafs A'n Assem - Murattal",
+  "connected": "Connected",
+  "noConnection": "No Connection",
+  "success": "Success",
+  "alert": "Alert",
+  "error": "Error",
+  "youConnected": "You are connected to the internet",
+  "younotConnected": "You are not connected to the internet",
+  "connectedNoInternet": "Connected but no internet access",
+  "noInternet": "No Internet",
+  "internetConnectionState": "Internet connection is currently unavailable",
+  "internetConnectionRecommended": "Please check your internet connection",
+  "reciterVoice": "Reciter's Voice",
+  "Favorites": "Favorites",
+  "Nofavorites":"No favorites"
+}

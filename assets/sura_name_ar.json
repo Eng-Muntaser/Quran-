@@ -1,0 +1,1030 @@
+{
+    "suwar": [
+        {
+            "id": 1,
+            "audio": "001.mp3",
+            "name": "الفاتحة",
+            "start_page": 1,
+            "end_page": 1,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 2,
+            "audio": "002.mp3",
+            "name": "البقرة",
+            "start_page": 2,
+            "end_page": 49,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 3,
+            "audio": "003.mp3",
+            "name": "آل عمران",
+            "start_page": 50,
+            "end_page": 76,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 4,
+            "audio": "004.mp3",
+            "name": "النساء",
+            "start_page": 77,
+            "end_page": 106,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 5,
+            "audio": "005.mp3",
+            "name": "المائدة",
+            "start_page": 106,
+            "end_page": 127,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 6,
+            "audio": "006.mp3",
+            "name": "الأنعام",
+            "start_page": 128,
+            "end_page": 150,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 7,
+            "audio": "007.mp3",
+            "name": "الأعراف",
+            "start_page": 151,
+            "end_page": 176,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 8,
+            "audio": "008.mp3",
+            "name": "الأنفال",
+            "start_page": 177,
+            "end_page": 186,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 9,
+            "audio": "009.mp3",
+            "name": "التوبة",
+            "start_page": 187,
+            "end_page": 207,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 10,
+            "audio": "010.mp3",
+            "name": "يونس",
+            "start_page": 208,
+            "end_page": 221,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 11,
+            "audio": "011.mp3",
+            "name": "هود",
+            "start_page": 221,
+            "end_page": 235,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 12,
+            "audio": "012.mp3",
+            "name": "يوسف",
+            "start_page": 235,
+            "end_page": 248,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 13,
+            "audio": "013.mp3",
+            "name": "الرعد",
+            "start_page": 249,
+            "end_page": 255,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 14,
+            "audio": "014.mp3",
+            "name": "إبراهيم",
+            "start_page": 255,
+            "end_page": 261,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 15,
+            "audio": "015.mp3",
+            "name": "الحجر",
+            "start_page": 262,
+            "end_page": 267,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 16,
+            "audio": "016.mp3",
+            "name": "النحل",
+            "start_page": 267,
+            "end_page": 281,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 17,
+            "audio": "017.mp3",
+            "name": "الإسراء",
+            "start_page": 282,
+            "end_page": 293,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 18,
+            "audio": "018.mp3",
+            "name": "الكهف",
+            "start_page": 293,
+            "end_page": 304,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 19,
+            "audio": "019.mp3",
+            "name": "مريم",
+            "start_page": 305,
+            "end_page": 312,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 20,
+            "audio": "020.mp3",
+            "name": "طه",
+            "start_page": 312,
+            "end_page": 321,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 21,
+            "audio": "021.mp3",
+            "name": "الأنبياء",
+            "start_page": 322,
+            "end_page": 331,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 22,
+            "audio": "022.mp3",
+            "name": "الحج",
+            "start_page": 332,
+            "end_page": 341,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 23,
+            "audio": "023.mp3",
+            "name": "المؤمنون",
+            "start_page": 342,
+            "end_page": 349,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 24,
+            "audio": "024.mp3",
+            "name": "النور",
+            "start_page": 350,
+            "end_page": 359,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 25,
+            "audio": "025.mp3",
+            "name": "الفرقان",
+            "start_page": 359,
+            "end_page": 366,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 26,
+            "audio": "026.mp3",
+            "name": "الشعراء",
+            "start_page": 367,
+            "end_page": 376,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 27,
+            "audio": "027.mp3",
+            "name": "النمل",
+            "start_page": 377,
+            "end_page": 385,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 28,
+            "audio": "028.mp3",
+            "name": "القصص",
+            "start_page": 385,
+            "end_page": 396,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 29,
+            "audio": "029.mp3",
+            "name": "العنكبوت",
+            "start_page": 396,
+            "end_page": 404,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 30,
+            "audio": "030.mp3",
+            "name": "الروم",
+            "start_page": 404,
+            "end_page": 410,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 31,
+            "audio": "031.mp3",
+            "name": "لقمان",
+            "start_page": 411,
+            "end_page": 414,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 32,
+            "audio": "032.mp3",
+            "name": "السجدة",
+            "start_page": 415,
+            "end_page": 417,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 33,
+            "audio": "033.mp3",
+            "name": "الأحزاب",
+            "start_page": 418,
+            "end_page": 427,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 34,
+            "audio": "034.mp3",
+            "name": "سبأ",
+            "start_page": 428,
+            "end_page": 434,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 35,
+            "audio": "035.mp3",
+            "name": "فاطر",
+            "start_page": 434,
+            "end_page": 440,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 36,
+            "audio": "036.mp3",
+            "name": "يس",
+            "start_page": 440,
+            "end_page": 445,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 37,
+            "audio": "037.mp3",
+            "name": "الصافات",
+            "start_page": 446,
+            "end_page": 452,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 38,
+            "audio": "038.mp3",
+            "name": "ص",
+            "start_page": 453,
+            "end_page": 458,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 39,
+            "audio": "039.mp3",
+            "name": "الزمر",
+            "start_page": 458,
+            "end_page": 467,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 40,
+            "audio": "040.mp3",
+            "name": "غافر",
+            "start_page": 467,
+            "end_page": 476,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 41,
+            "audio": "041.mp3",
+            "name": "فصلت",
+            "start_page": 477,
+            "end_page": 482,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 42,
+            "audio": "042.mp3",
+            "name": "الشورى",
+            "start_page": 483,
+            "end_page": 489,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 43,
+            "audio": "043.mp3",
+            "name": "الزخرف",
+            "start_page": 489,
+            "end_page": 495,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 44,
+            "audio": "044.mp3",
+            "name": "الدّخان",
+            "start_page": 496,
+            "end_page": 498,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 45,
+            "audio": "045.mp3",
+            "name": "الجاثية",
+            "start_page": 499,
+            "end_page": 502,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 46,
+            "audio": "046.mp3",
+            "name": "الأحقاف",
+            "start_page": 502,
+            "end_page": 506,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 47,
+            "audio": "047.mp3",
+            "name": "محمد",
+            "start_page": 507,
+            "end_page": 510,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 48,
+            "audio": "048.mp3",
+            "name": "الفتح",
+            "start_page": 511,
+            "end_page": 515,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 49,
+            "audio": "049.mp3",
+            "name": "الحجرات",
+            "start_page": 515,
+            "end_page": 517,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 50,
+            "audio": "050.mp3",
+            "name": "ق",
+            "start_page": 518,
+            "end_page": 520,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 51,
+            "audio": "051.mp3",
+            "name": "الذاريات",
+            "start_page": 520,
+            "end_page": 523,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 52,
+            "audio": "052.mp3",
+            "name": "الطور",
+            "start_page": 523,
+            "end_page": 525,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 53,
+            "audio": "053.mp3",
+            "name": "النجم",
+            "start_page": 526,
+            "end_page": 528,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 54,
+            "audio": "054.mp3",
+            "name": "القمر",
+            "start_page": 528,
+            "end_page": 531,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 55,
+            "audio": "055.mp3",
+            "name": "الرحمن",
+            "start_page": 531,
+            "end_page": 534,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 56,
+            "audio": "056.mp3",
+            "name": "الواقعة",
+            "start_page": 534,
+            "end_page": 537,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 57,
+            "audio": "057.mp3",
+            "name": "الحديد",
+            "start_page": 537,
+            "end_page": 541,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 58,
+            "audio": "058.mp3",
+            "name": "المجادلة",
+            "start_page": 542,
+            "end_page": 545,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 59,
+            "audio": "059.mp3",
+            "name": "الحشر",
+            "start_page": 545,
+            "end_page": 548,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 60,
+            "audio": "060.mp3",
+            "name": "الممتحنة",
+            "start_page": 549,
+            "end_page": 551,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 61,
+            "audio": "061.mp3",
+            "name": "الصف",
+            "start_page": 551,
+            "end_page": 552,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 62,
+            "audio": "062.mp3",
+            "name": "الجمعة",
+            "start_page": 553,
+            "end_page": 554,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 63,
+            "audio": "063.mp3",
+            "name": "المنافقون",
+            "start_page": 554,
+            "end_page": 555,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 64,
+            "audio": "064.mp3",
+            "name": "التغابن",
+            "start_page": 556,
+            "end_page": 557,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 65,
+            "audio": "065.mp3",
+            "name": "الطلاق",
+            "start_page": 558,
+            "end_page": 559,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 66,
+            "audio": "066.mp3",
+            "name": "التحريم",
+            "start_page": 560,
+            "end_page": 561,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 67,
+            "audio": "067.mp3",
+            "name": "الملك",
+            "start_page": 562,
+            "end_page": 564,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 68,
+            "audio": "068.mp3",
+            "name": "القلم",
+            "start_page": 564,
+            "end_page": 566,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 69,
+            "audio": "069.mp3",
+            "name": "الحاقة",
+            "start_page": 566,
+            "end_page": 568,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 70,
+            "audio": "070.mp3",
+            "name": "المعارج",
+            "start_page": 568,
+            "end_page": 570,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 71,
+            "audio": "071.mp3",
+            "name": "نوح",
+            "start_page": 570,
+            "end_page": 571,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 72,
+            "audio": "072.mp3",
+            "name": "الجن",
+            "start_page": 572,
+            "end_page": 573,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 73,
+            "audio": "073.mp3",
+            "name": "المزمل",
+            "start_page": 574,
+            "end_page": 575,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 74,
+            "audio": "074.mp3",
+            "name": "المدثر",
+            "start_page": 575,
+            "end_page": 577,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 75,
+            "audio": "075.mp3",
+            "name": "القيامة",
+            "start_page": 577,
+            "end_page": 578,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 76,
+            "audio": "076.mp3",
+            "name": "الإنسان",
+            "start_page": 578,
+            "end_page": 580,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 77,
+            "audio": "077.mp3",
+            "name": "المرسلات",
+            "start_page": 580,
+            "end_page": 581,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 78,
+            "audio": "078.mp3",
+            "name": "النبأ",
+            "start_page": 582,
+            "end_page": 583,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 79,
+            "audio": "079.mp3",
+            "name": "النازعات",
+            "start_page": 583,
+            "end_page": 584,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 80,
+            "audio": "080.mp3",
+            "name": "عبس",
+            "start_page": 585,
+            "end_page": 586,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 81,
+            "audio": "081.mp3",
+            "name": "التكوير",
+            "start_page": 586,
+            "end_page": 586,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 82,
+            "audio": "082.mp3",
+            "name": "الإنفطار",
+            "start_page": 587,
+            "end_page": 587,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 83,
+            "audio": "083.mp3",
+            "name": "المطففين",
+            "start_page": 587,
+            "end_page": 589,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 84,
+            "audio": "084.mp3",
+            "name": "الإنشقاق",
+            "start_page": 589,
+            "end_page": 590,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 85,
+            "audio": "085.mp3",
+            "name": "البروج",
+            "start_page": 590,
+            "end_page": 590,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 86,
+            "audio": "086.mp3",
+            "name": "الطارق",
+            "start_page": 591,
+            "end_page": 591,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 87,
+            "audio": "087.mp3",
+            "name": "الأعلى",
+            "start_page": 591,
+            "end_page": 592,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 88,
+            "audio": "088.mp3",
+            "name": "الغاشية",
+            "start_page": 592,
+            "end_page": 593,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 89,
+            "audio": "089.mp3",
+            "name": "الفجر",
+            "start_page": 593,
+            "end_page": 594,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 90,
+            "audio": "090.mp3",
+            "name": "البلد",
+            "start_page": 594,
+            "end_page": 595,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 91,
+            "audio": "091.mp3",
+            "name": "الشمس",
+            "start_page": 595,
+            "end_page": 595,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 92,
+            "audio": "092.mp3",
+            "name": "الليل",
+            "start_page": 595,
+            "end_page": 596,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 93,
+            "audio": "093.mp3",
+            "name": "الضحى",
+            "start_page": 596,
+            "end_page": 596,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 94,
+            "audio": "094.mp3",
+            "name": "الشرح",
+            "start_page": 596,
+            "end_page": 597,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 95,
+            "audio": "095.mp3",
+            "name": "التين",
+            "start_page": 597,
+            "end_page": 597,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 96,
+            "audio": "096.mp3",
+            "name": "العلق",
+            "start_page": 597,
+            "end_page": 598,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 97,
+            "audio": "097.mp3",
+            "name": "القدر",
+            "start_page": 598,
+            "end_page": 598,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 98,
+            "audio": "098.mp3",
+            "name": "البينة",
+            "start_page": 598,
+            "end_page": 599,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 99,
+            "audio": "099.mp3",
+            "name": "الزلزلة",
+            "start_page": 599,
+            "end_page": 599,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 100,
+            "audio": "100.mp3",
+            "name": "العاديات",
+            "start_page": 599,
+            "end_page": 600,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 101,
+            "audio": "101.mp3",
+            "name": "القارعة",
+            "start_page": 600,
+            "end_page": 600,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 102,
+            "audio": "102.mp3",
+            "name": "التكاثر",
+            "start_page": 600,
+            "end_page": 600,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 103,
+            "audio": "103.mp3",
+            "name": "العصر",
+            "start_page": 601,
+            "end_page": 601,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 104,
+            "audio": "104.mp3",
+            "name": "الهمزة",
+            "start_page": 601,
+            "end_page": 601,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 105,
+            "audio": "105.mp3",
+            "name": "الفيل",
+            "start_page": 601,
+            "end_page": 601,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 106,
+            "audio": "106.mp3",
+            "name": "قريش",
+            "start_page": 602,
+            "end_page": 602,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 107,
+            "audio": "107.mp3",
+            "name": "الماعون",
+            "start_page": 602,
+            "end_page": 602,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 108,
+            "audio": "108.mp3",
+            "name": "الكوثر",
+            "start_page": 602,
+            "end_page": 602,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 109,
+            "audio": "109.mp3",
+            "name": "الكافرون",
+            "start_page": 603,
+            "end_page": 603,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 110,
+            "audio": "110.mp3",
+            "name": "النصر",
+            "start_page": 603,
+            "end_page": 603,
+            "makkia": 0,
+            "type": 1
+        },
+        {
+            "id": 111,
+            "audio": "111.mp3",
+            "name": "المسد",
+            "start_page": 603,
+            "end_page": 603,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 112,
+            "audio": "112.mp3",
+            "name": "الإخلاص",
+            "start_page": 604,
+            "end_page": 604,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 113,
+            "audio": "113.mp3",
+            "name": "الفلق",
+            "start_page": 604,
+            "end_page": 604,
+            "makkia": 1,
+            "type": 0
+        },
+        {
+            "id": 114,
+            "audio": "114.mp3",
+            "name": "الناس",
+            "start_page": 604,
+            "end_page": 604,
+            "makkia": 1,
+            "type": 0
+        }
+    ]
+}

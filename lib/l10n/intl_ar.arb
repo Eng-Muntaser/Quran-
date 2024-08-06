@@ -1,0 +1,21 @@
+{
+  "@@locale": "ar",
+  "recitersList": "قائمة القراء",
+  "recitersListBottom": "قائمة القراء:",
+  "search": "بحث",
+  "rewayatDefault": "حفص عن عاصم - مرتل",
+  "connected": "متصل",
+  "noConnection": "لا يوجد اتصال",
+  "success": "نجاح",
+  "alert": "تنبيه",
+  "error": "خطأ",
+  "youConnected": "أنت متصل بالإنترنت",
+  "younotConnected": "أنت غير متصل بالإنترنت",
+  "connectedNoInternet": "متصل ولكن لا يوجد إنترنت",
+  "noInternet": "لا يوجد إنترنت",
+  "internetConnectionState": "الوصول الى الانترنت غير متاحا الان",
+  "internetConnectionRecommended": "تأكد من اتصالك بشبكة الانترنت",
+  "reciterVoice": "صوت القارئ",
+  "Favorites":"المفضلة",
+  "Nofavorites": "لا توجد مفضلات"
+}

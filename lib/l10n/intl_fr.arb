@@ -1,0 +1,22 @@
+{
+  "@@locale": "fr",
+  "recitersList": "Liste des récitateurs",
+  "recitersListBottom": "Liste des récitateurs :",
+  "search": "Rechercher",
+  "rewayatDefault": "Rewayat Hafs A'n Assem - Psalmodié",
+  "connected": "Connecté",
+  "noConnection": "Pas de connexion",
+  "success": "Succès",
+  "alert": "Alerte",
+  "error": "Erreur",
+  "youConnected": "Vous êtes connecté à Internet",
+  "younotConnected": "Vous n'êtes pas connecté à Internet",
+  "connectedNoInternet": "Connecté mais pas d'accès Internet",
+  "noInternet": "Pas d'Internet",
+  "internetConnectionState": "Connexion Internet actuellement indisponible",
+  "internetConnectionRecommended": "Veuillez vérifier votre connexion Internet",
+  "reciterVoice": "Voix du réciteur",
+  "Favorites": "Favoris",
+  "Nofavorites": "Pas de favoris"
+
+}
